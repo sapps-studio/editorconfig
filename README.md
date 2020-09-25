@@ -1,1 +1,3 @@
-# editorconfig
+# Install
+
+Rename to `.editorconfig`
